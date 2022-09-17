@@ -19,39 +19,52 @@ html ,body{
 }
 h1{
     font-family:berold;
+    font-size: 50px;
     text-align: center;
      text-shadow: 2px 2px 5px black;
      
+}
+h2{
+    font-family: berold;
+    text-align: center;
+
 }
 h3{
     font-family: mister;
     text-align: center;
 }
 div.cabeça{
-    padding: 20px;
-    background-color: aqua;
+    padding: 10px;
+    background-color: rgba(0, 255, 255, 0.527);
     
 }
 #face{
-    width: 50px;
+    width: 30px;
     border-radius: 50%;
     
     
     
 }
 #insta{
-    width: 50px;
+    width: 30px;
     border-radius: 50%;
     
     
 }
 #face:hover{
     box-shadow: 5px 6px 6px black;
-    width: 52px;
+    width: 38px;
     transition: .5s;
 }
 #zap{
-    width: 54px;
+    width: 30px;
+   border-radius: 50%;
+}
+#zap:hover{
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
+    width:32;
+   transition: .5s;
+   
 }
 li{
     display: inline-block;
@@ -60,21 +73,15 @@ li{
 }
 #insta:hover{
     box-shadow: 5px 6px 6px rgb(0, 0, 0);
-    width: 52px;
+    width: 38px;
     transition: .5s;
     
 }
-#zap:hover{
-    box-shadow: 5px 6px 6px rgb(0, 0, 0);
-    width:56 ;
-    border-radius:50% ;
-    transition: .5s;
-   
-}
+
 #foto{
     display: inline-block;
 }
-li.fotos{
+.fotos{
     font-weight: bolder;
 }
 div#tu{
@@ -87,16 +94,16 @@ div#tu{
     border-radius: 50%;
  }
 #nico{
-    width: 55px;
+    width: 35px;
 }
 .audio{
-    width: 52px;
+    width: 32px;
 }
 .tv{
-    width: 50px;
+    width: 30px;
 }
 .tv:hover{
-    width: 53px;
+    width: 37px;
     box-shadow: 5px 6px 6px rgb(0, 0, 0) ;
     transition: .5s;
 }
@@ -104,17 +111,19 @@ div#tu{
     box-shadow: 5px 6px 6px rgb(0, 0, 0);
     border-radius: 0px 9px 15px 15px;
     transition: .5s;
+    width: 38px;
 }
 #nico:hover{
     box-shadow: 5px 6px 6px rgb(0, 0, 0);
-    width:57px;
+    width:38px;
     border-radius: 50%;
    transition: .5s;
     
 }
 .icone1{
-    width: 37px;
-    height: 50px;
+    width: 36px;
+    height: 31px;
+    border-radius: 10%;
     }
     .icone1:hover{
         box-shadow: 5px 6px 6px rgb(0, 0, 0);
@@ -122,20 +131,23 @@ div#tu{
         transition: .5s;
     }
 menu{
- height: 70px;
+ height: 50px;
    text-align: center;
-   background-color: azure;
+   background-color: rgba(240, 255, 255, 0.221);
+   border-radius: 0px 0px 7px 7px;
+  
   
 }
 footer{
-    background-color: lightslategray;
+    background-color: rgba(119, 153, 144, 0.553);
    margin-top: 69px;
    
    
 }
 p.fot{
  
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-style: oblique;
    font-size: small;
   padding: 5px;
+  color: white;
 }
