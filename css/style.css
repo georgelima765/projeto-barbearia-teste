@@ -1,0 +1,141 @@
+@charset  'UTF-8';
+
+*{
+   margin: 0%;
+   padding: 0%; 
+  
+  
+}
+ 
+html ,body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../imagens/fundo-madeira.jpg");
+   /* background-color: black;*/
+    max-width:600px ;/* largura maxima que a tela vai se adaptar*/
+    min-width: 300px;
+    margin: auto;
+   
+}
+h1{
+    font-family:berold;
+    text-align: center;
+     text-shadow: 2px 2px 5px black;
+     
+}
+h3{
+    font-family: mister;
+    text-align: center;
+}
+div.cabeça{
+    padding: 20px;
+    background-color: aqua;
+    
+}
+#face{
+    width: 50px;
+    border-radius: 50%;
+    
+    
+    
+}
+#insta{
+    width: 50px;
+    border-radius: 50%;
+    
+    
+}
+#face:hover{
+    box-shadow: 5px 6px 6px black;
+    width: 52px;
+    transition: .5s;
+}
+#zap{
+    width: 54px;
+}
+li{
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+#insta:hover{
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
+    width: 52px;
+    transition: .5s;
+    
+}
+#zap:hover{
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
+    width:56 ;
+    border-radius:50% ;
+    transition: .5s;
+   
+}
+#foto{
+    display: inline-block;
+}
+li.fotos{
+    font-weight: bolder;
+}
+div#tu{
+ 
+   padding-top: 5px;
+  margin-top: 70px;
+  text-align: center;
+  }
+#tu2{
+    border-radius: 50%;
+ }
+#nico{
+    width: 55px;
+}
+.audio{
+    width: 52px;
+}
+.tv{
+    width: 50px;
+}
+.tv:hover{
+    width: 53px;
+    box-shadow: 5px 6px 6px rgb(0, 0, 0) ;
+    transition: .5s;
+}
+.audio:hover{
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
+    border-radius: 0px 9px 15px 15px;
+    transition: .5s;
+}
+#nico:hover{
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
+    width:57px;
+    border-radius: 50%;
+   transition: .5s;
+    
+}
+.icone1{
+    width: 37px;
+    height: 50px;
+    }
+    .icone1:hover{
+        box-shadow: 5px 6px 6px rgb(0, 0, 0);
+        width: 39px;
+        transition: .5s;
+    }
+menu{
+ height: 70px;
+   text-align: center;
+   background-color: azure;
+  
+}
+footer{
+    background-color: lightslategray;
+   margin-top: 69px;
+   
+   
+}
+p.fot{
+ 
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: small;
+  padding: 5px;
+}
