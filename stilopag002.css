@@ -33,25 +33,33 @@
    
     }
     .f1{
-        width:600px;
+        width:400px;
         height: 300px;
+        margin-left: 100px;
+        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         
         }
     .f2{
-        width:600px ;
-         height: 300px;
-       
+        width:400px;
+        height: 300px;
+        margin-left: 100px;
+        text-align: center;
+        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         
     }
     .f3{
-        width: 600px;
+        width:400px;
         height: 300px;
+        margin-left: 100px;
+        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
       
        
     }
     .f4{
-        width: 600px;
+        width:400px;
         height: 300px;
+        margin-left: 100px;
+        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
      
     } .foot02{
        
@@ -59,9 +67,11 @@
     footer > p{
         background-color: rgba(240, 248, 255, 0.403);
         display: block;
-        width: 144px;
+        width: 155px;
         font-weight: bolder;
         margin-left: 200px;
         padding: 5px;
+        padding-bottom: 9px;
+        border-radius: 5px 5px 0px 0px;
        
     }
