@@ -19,7 +19,7 @@ html ,body{
 }
 h1{
     font-family:berold;
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
      text-shadow: 4px 6px 8px rgba(0, 0, 0, 0.947);
      
@@ -48,6 +48,7 @@ div.cabeça{
 p.agora{
     color: white;
     text-align: center;
+    padding-top: 8px;
 }
 .endereço{
     text-align: center;
