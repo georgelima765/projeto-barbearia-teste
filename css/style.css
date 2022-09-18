@@ -66,6 +66,7 @@ p.agende{
     color: white;
     text-align: center;
     text-decoration: underline;
+   padding-top: 400px;
 
    
     
@@ -126,20 +127,23 @@ li{
     font-weight: bolder;
 }
 div#tu{
-  
-  margin-top: 20px;
-  margin-left: 100px;
+  background-image: url('/imagens/foto-barbeiros1.jpg');
+  margin-top: 50px;
+  margin-left: 160px;
   width: 300px;
   text-align: center;
   height: 300px;
+  display: block;
+  border-radius: 10%;
+  box-shadow: 8px 6px 4px rgba(0, 0, 0, 0.625);
  
   }
-#tu2{
+/*#tu2{
     border-radius: 10%;
     box-shadow: 8px 6px 4px rgba(0, 0, 0, 0.625);
     text-align: center;
    
- }
+ }*/
 #nico{
     width: 35px;
 }
