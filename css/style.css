@@ -35,6 +35,7 @@ h2.estilo{
     color: white;
     text-align: center;
     margin: auto;
+    margin-top: 20px;
 }
 h3{
     font-family: bleeding;
@@ -66,7 +67,7 @@ p.agende{
     color: white;
     text-align: center;
     text-decoration: underline;
-   padding-top: 100px;
+   padding-top: 60px;
 
    
     
@@ -100,11 +101,12 @@ img.map:hover{
 }
 #zap{
     width: 30px;
-   border-radius: 50%;
+  
+   margin-left: 270px;
 }
 #zap:hover{
     box-shadow: 5px 6px 6px rgb(0, 0, 0);
-    width:32;
+    width:35;
    transition: .5s;
    
 }
@@ -135,6 +137,7 @@ img.barb1{
     
 }
 nav{
+   
     width: 100%;
     height: 50%;
  padding-top: 30px;
@@ -183,8 +186,15 @@ menu{
    text-align: center;
    background-color: rgba(240, 255, 255, 0.221);
    border-radius: 0px 0px 7px 7px;
-  
-  
+}
+img.foto14{
+   
+    width: 100%;
+    height: 50%;
+    padding-top: 0px;
+    text-align: center;
+    box-shadow: 5px 6px 8px black;
+    border-radius: 6%;
 }
 footer{
     background-color: rgba(119, 153, 144, 0.553);
@@ -194,9 +204,9 @@ footer{
 }
 p.fot{
  
-   font-style: oblique;
-   font-size: small;
+   font-style:normal;
+   font-size: 20px;
   padding: 5px;
-  color: white;
+  color: rgb(27, 17, 17);
   
 }

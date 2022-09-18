@@ -17,26 +17,17 @@
     
  }
  h1{
-    background-image: linear-gradient(to left,rgba(225, 100, 27, 0.774),transparent);
+    background-image: linear-gradient(to left,rgba(223, 107, 41, 0.936),transparent);
      font-family:berold;
      text-align: center;
      color: white;
       text-shadow: 4px 6px 5px black;
+      padding: 20px;
+      background-color: aqua;
      
-      
  }
- h3{
-     font-family: mister;
-     text-align: center;
- }
- div.cabeça{
-   
-     background-color: rgba(0, 255, 255, 0.355);
-   
-    }
-    div.pag2{
-   
-    }
+ 
+  
     .f1{
         width: 40%;
         height: 50%;
@@ -72,14 +63,14 @@
        
     }
     footer > p{
-        background-color: rgba(240, 248, 255, 0.403);
-        display: block;
-        width: 155px;
+        color: white;
+    
+        width: 50%;
         font-weight: bolder;
-        margin-left: 200px;
+       
         padding: 10px;
         padding-bottom: 9px;
-        border-radius: 5px 5px 0px 0px;
+       
        
     }
     
