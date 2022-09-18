@@ -16,20 +16,17 @@
     
     
  }
- h1{
+ h1.barb{
+      
      font-family:berold;
      text-align: center;
       text-shadow: 2px 2px 5px black;
-     
-      
- }
- h3{
-     font-family: mister;
-     text-align: center;
- }
+     }
+ 
  div.cabeça{
      padding: 20px;
-     background-color: aqua;
+     background-color: rgba(0, 255, 255, 0.895);
+     border-radius: 0px 5px 0px 5px;
     }
     .f1{
         width:600px;

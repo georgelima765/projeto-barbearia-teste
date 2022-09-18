@@ -19,24 +19,60 @@ html ,body{
 }
 h1{
     font-family:berold;
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
-     text-shadow: 2px 2px 5px black;
+     text-shadow: 4px 6px 8px rgba(0, 0, 0, 0.947);
      
 }
 h2{
     font-family: berold;
     text-align: center;
-
+    font-size: 30px;
+}
+h2.estilo{
+    background-image: linear-gradient(to left,rgba(83, 210, 206, 0.774),transparent);
+    font-style: bleeding;
+    color: white;
+    text-align: center;
+    margin: auto;
 }
 h3{
-    font-family: mister;
+    font-family: bleeding;
     text-align: center;
 }
 div.cabeça{
     padding: 10px;
     background-color: rgba(0, 255, 255, 0.527);
     
+}
+p.agora{
+    color: white;
+    text-align: center;
+}
+.endereço{
+    text-align: center;
+    color: white;
+}
+p.venha{
+    font-family:berold;
+    color: white;
+    text-align: center;
+}
+p.agende{
+    font-family: bleeding;
+    text-align: center;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+img.map{
+    width: 32px;
+    margin-left: 510px;
+}
+img.map:hover{
+    width: 38px;
+    box-shadow: 4px 4px 6px black;
 }
 #face{
     width: 30px;
@@ -52,7 +88,7 @@ div.cabeça{
     
 }
 #face:hover{
-    box-shadow: 5px 6px 6px black;
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
     width: 38px;
     transition: .5s;
 }
@@ -85,13 +121,13 @@ li{
     font-weight: bolder;
 }
 div#tu{
- 
-   padding-top: 5px;
-  margin-top: 70px;
+  
+  margin-top: 20px;
   text-align: center;
   }
 #tu2{
-    border-radius: 50%;
+    border-radius: 10%;
+    box-shadow: 8px 6px 4px rgba(0, 0, 0, 0.625);
  }
 #nico{
     width: 35px;

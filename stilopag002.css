@@ -17,9 +17,11 @@
     
  }
  h1{
+    background-image: linear-gradient(to left,rgba(225, 100, 27, 0.774),transparent);
      font-family:berold;
      text-align: center;
-      text-shadow: 2px 2px 5px black;
+     color: white;
+      text-shadow: 4px 6px 5px black;
      
       
  }
@@ -29,7 +31,7 @@
  }
  div.cabeça{
      padding: 20px;
-     background-color: aqua;
+     background-color: rgba(0, 255, 255, 0.355);
    
     }
     .f1{
