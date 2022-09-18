@@ -37,13 +37,15 @@
     .f1{
         width:600px;
         height: 300px;
-        
+        display: block;
+        text-align: center;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         
         }
     .f2{
         width:600px;
         height: 300px;
+        display: block;
         text-align: center;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         
@@ -52,6 +54,8 @@
         width:600px;
         height: 300px;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
+        display: block;
+        text-align: center;
       
        
     }
@@ -59,6 +63,8 @@
         width:600px;
         height: 300px;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
+        display: block;
+        text-align: center;
      
     } .foot02{
        
