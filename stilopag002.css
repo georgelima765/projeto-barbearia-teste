@@ -30,51 +30,45 @@
      text-align: center;
  }
  div.cabeça{
-     padding: 40px;
+   
      background-color: rgba(0, 255, 255, 0.355);
    
     }
+    div.pag2{
+   
+    }
     .f1{
-        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-    min-width: 360px;
-        height: 300px;
-        padding-left: 100px;
-        display: block;
+        width: 40%;
+        height: 50%;
+        display: inline-block;
         text-align: center;
-        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
-        
+        padding-left: 60px;
         }
     .f2{
-        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-        min-width: 360px;
-        height: 300px;
-        padding-left: 100px;
-        display: block;
-        text-align: center;
-        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
-        
-    }
-    .f3{
-        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-    min-width: 360px;
-        height: 300px;
-        padding-left: 100px;
-        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
-        display: block;
-        text-align: center;
+       display: inline-block;
+        width: 40%;
+        height: 50%;
       
        
+        text-align: center;
+    }
+    .f3{
+       
+        width: 40%;
+        height: 50%;
+       display: inline-block;
+        text-align: center;
+        padding-left: 60px;
+        
     }
     .f4{
-        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-        min-width: 360px;
-        height: 300px;
-        padding-left: 100px;
-        box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
-        display: block;
+       
+        width: 40%;
+        height: 50%;
+        display: inline-block;
         text-align: center;
-     
-    } .foot02{
+    }
+  .foot02{
        
     }
     footer > p{
