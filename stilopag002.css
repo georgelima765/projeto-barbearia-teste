@@ -35,7 +35,8 @@
    
     }
     .f1{
-        width:600px;
+        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
+    min-width: 600px;
         height: 300px;
         display: block;
         text-align: center;
@@ -43,7 +44,8 @@
         
         }
     .f2{
-        width:600px;
+        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
+        min-width: 600px;
         height: 300px;
         display: block;
         text-align: center;
@@ -51,7 +53,8 @@
         
     }
     .f3{
-        width:600px;
+        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
+    min-width: 600px;
         height: 300px;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         display: block;
@@ -60,7 +63,8 @@
        
     }
     .f4{
-        width:600px;
+        max-width:600px ;/* largura maxima que a tela vai se adaptar*/
+        min-width: 600px;
         height: 300px;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         display: block;

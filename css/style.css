@@ -13,7 +13,7 @@ html ,body{
     background-image: url("../imagens/fundo-madeira.jpg");
    /* background-color: black;*/
     max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-    min-width: 300px;
+    min-width: 360px;
     margin: auto;
    
 }
