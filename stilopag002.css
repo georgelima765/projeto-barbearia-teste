@@ -11,7 +11,7 @@
      height: 100vh;
      background-image: url("imagens/fundo-madeira.jpg");
      max-width: 600px;
-     min-width: 600px;
+     min-width: 360px;
      margin: auto;
     
     
@@ -36,8 +36,9 @@
     }
     .f1{
         max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-    min-width: 600px;
+    min-width: 360px;
         height: 300px;
+        padding-left: 100px;
         display: block;
         text-align: center;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
@@ -45,8 +46,9 @@
         }
     .f2{
         max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-        min-width: 600px;
+        min-width: 360px;
         height: 300px;
+        padding-left: 100px;
         display: block;
         text-align: center;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
@@ -54,8 +56,9 @@
     }
     .f3{
         max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-    min-width: 600px;
+    min-width: 360px;
         height: 300px;
+        padding-left: 100px;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         display: block;
         text-align: center;
@@ -64,8 +67,9 @@
     }
     .f4{
         max-width:600px ;/* largura maxima que a tela vai se adaptar*/
-        min-width: 600px;
+        min-width: 360px;
         height: 300px;
+        padding-left: 100px;
         box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.822);
         display: block;
         text-align: center;
