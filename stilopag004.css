@@ -38,13 +38,11 @@
  
  
    .video2{
-    width: 80%;
+    width: 98%;
     height: 60%;
-   margin-left: 40px;
+     margin-left: -0%;
    background-color: black;
-   
      border: solid 7px #4D5D16;
- 
    }
    #zap{
     width: 30px;
