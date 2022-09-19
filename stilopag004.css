@@ -38,9 +38,9 @@
  
  
    .video2{
-    width: 98%;
+    width: 96%;
     height: 60%;
-     margin-left: -0%;
+     margin-left: 5px;
    background-color: black;
      border: solid 7px #4D5D16;
    }
