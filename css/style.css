@@ -12,7 +12,7 @@ html ,body{
     height: 100vh;
     background-image: url("../imagens/fundo-madeira.jpg");
    /* background-color: black;*/
-    max-width:600px ;/* largura maxima que a tela vai se adaptar*/
+    max-width:800px ;/* largura maxima que a tela vai se adaptar*/
     min-width: 360px;
     margin: auto;
    
@@ -35,21 +35,23 @@ h2.estilo{
     color: white;
     text-align: center;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 h3{
     font-family: bleeding;
     text-align: center;
+    text-decoration: underline;
 }
+ 
 div.cabeça{
-    padding: 10px;
+   
     background-color: rgba(0, 255, 255, 0.527);
     
 }
 p.agora{
     color: white;
     text-align: center;
-    padding-top: 8px;
+    padding-top: 15px;
 }
 .endereço{
     text-align: center;
@@ -194,8 +196,8 @@ img.foto14{
     height: 50%;
     padding-top: 0px;
     text-align: center;
-    box-shadow: 5px 6px 8px black;
-    border-radius: 6%;
+    box-shadow: 5px 6px 8px rgba(0, 0, 0, 0.74);
+    border-radius: 5%;
 }
 footer{
     background-color: rgba(119, 153, 144, 0.553);

@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+   
+  
+   
+ }
+  
+ html ,body{
+     width: 100vw;
+     height: 100vh;
+     background-image: url("imagens/fundo-madeira.jpg");
+     max-width: 800px;
+     min-width: 360px;
+     margin: auto;
+    
+    
+ }
+ h1{
+    background-image: linear-gradient(to left,rgba(223, 107, 41, 0.936),transparent);
+     font-family:berold;
+     text-align: center;
+     color: white;
+      text-shadow: 4px 6px 5px black;
+      padding: 20px;
+      background-color: aqua;
+     
+ }
+ h3{
+    color: white;
+  
+    text-align: center;
+ }
+ 
+  
+    .f1{
+        width: 40%;
+        height: 50%;
+        display: inline-block;
+        text-align: center;
+        padding-left: 10%;
+        }
+    .f2{
+       display: inline-block;
+        width: 40%;
+        height: 50%;
+      
+       
+        text-align: center;
+    }
+    .f3{
+       
+        width: 40%;
+        height: 50%;
+       display: inline-block;
+        text-align: center;
+        padding-left: 10%;
+        
+    }
+    .f4{
+       
+        width: 40%;
+        height: 50%;
+        display: inline-block;
+        text-align: center;
+    }
+    .f5{
+        width: 40%;
+        height: 50%;
+       display: inline-block;
+        text-align: center;
+        padding-left: 10%;
+        
+    }
+    .f6{
+        width: 40%;
+        height: 50%;
+        display: inline-block;
+        text-align: center;
+    }
+  .foot02{
+       
+    }
+    footer > p{
+        color: white;
+    
+        width: 50%;
+        font-weight: bolder;
+       
+        padding: 10px;
+        padding-bottom: 9px;
+        }
+
+footer > p >a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
