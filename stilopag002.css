@@ -10,7 +10,7 @@
      width: 100vw;
      height: 100vh;
      background-image: url("imagens/fundo-madeira.jpg");
-     max-width: 800px;
+     max-width:600px;
      min-width: 360px;
      margin: auto;
     
@@ -101,5 +101,5 @@
     footer > p >a{
         text-decoration: none;
         color: white;
-        font-size: 30px;
+        font-size: 20px;
     }
