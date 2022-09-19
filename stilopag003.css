@@ -20,8 +20,8 @@
     background-image: linear-gradient(to left,rgba(223, 107, 41, 0.936),transparent);
      font-family:berold;
      text-align: center;
-     color: white;
-      text-shadow: 4px 6px 5px black;
+     color: rgb(120, 39, 39);
+      text-shadow: 4px 6px 5px rgba(0, 0, 0, 0.711);
       padding: 20px;
       background-color: aqua;
      
@@ -32,8 +32,7 @@
     text-align: center;
  }
  
-  
-    .f1{
+   .f1{
         width: 40%;
         height: 50%;
         display: inline-block;
@@ -81,7 +80,6 @@
     }
     footer > p{
         color: white;
-        width: 50%;
         font-weight: bolder;
         padding: 10px;
         padding-bottom: 9px;
