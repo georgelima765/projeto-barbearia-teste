@@ -13,17 +13,20 @@
      max-width:600px;
      min-width: 360px;
      margin: auto;
+     background-attachment: fixed;
     
     
  }
  h1{
-    background-image: linear-gradient(to left,rgba(223, 107, 41, 0.936),transparent);
+    
      font-family:berold;
      text-align: center;
-     color: rgb(82, 67, 41);
+     color: white;
       text-shadow: 4px 6px 5px rgba(0, 0, 0, 0.651);
       padding: 20px;
-      background-color: aqua;
+      background-color: #4D5D16;
+      border-radius: 0px 0px 10px 10px;
+     
      
  }
  h2{
@@ -35,7 +38,7 @@
  h3{
     color: white;
     text-align: center;
-    margin: ;
+ 
  }
   
     .f1{
@@ -110,7 +113,16 @@
     footer > p >a{
         text-decoration: none;
         color: white;
-       
-    
-       
-    }
+     }
+     p.aqui{
+        color: rgb(44, 84, 33);
+    font-family: berold;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    text-justify:auto;
+    margin: auto;
+    text-indent: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid 5px rgb(44, 84, 33);
+     }
