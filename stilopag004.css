@@ -32,17 +32,50 @@
     color: white;
     text-align: center;
     padding: 10px;
+    background-color: #8492553b;
+    border-radius: 50%;
  }
  
  
    .video2{
     width: 80%;
     height: 60%;
-   margin-left: 50px;
-    text-align: center;
+   margin-left: 40px;
+   background-color: black;
+   
      border: solid 7px #4D5D16;
  
    }
+   #zap{
+    width: 30px;
+  
+   margin-left: 270px;
+}
+#zap:hover{
+    box-shadow: 5px 6px 6px rgb(0, 0, 0);
+    width:35;
+   transition: .5s;
+   
+}
+p.venha{
+    font-family:berold;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    padding-top: 30px;
+    background-color: #353b2099;
+   
+}
+p.agende{
+    font-family: bleeding;
+    text-align: center;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+   padding-top: 10px;
+   margin-bottom: 20px;
+   
+}
   .foot02{
        
     }
