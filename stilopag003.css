@@ -81,12 +81,11 @@
     }
     footer > p{
         color: white;
-    
         width: 50%;
         font-weight: bolder;
-       
         padding: 10px;
         padding-bottom: 9px;
+        text-align: center;
         }
 
 footer > p >a{

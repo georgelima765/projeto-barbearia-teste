@@ -95,11 +95,14 @@
         font-weight: bolder;
         padding: 10px;
         padding-bottom: 9px;
-        text-decoration: ;
+        text-align: center;
        
         }
     footer > p >a{
         text-decoration: none;
         color: white;
         font-size: 18px;
+        
+    
+       
     }
