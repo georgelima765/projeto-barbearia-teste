@@ -20,13 +20,23 @@
     background-image: linear-gradient(to left,rgba(223, 107, 41, 0.936),transparent);
      font-family:berold;
      text-align: center;
-     color: white;
-      text-shadow: 4px 6px 5px black;
+     color: rgb(82, 67, 41);
+      text-shadow: 4px 6px 5px rgba(0, 0, 0, 0.651);
       padding: 20px;
       background-color: aqua;
      
  }
- 
+ h2{
+    color: darkorange;
+    text-align: center;
+    margin: auto;
+ }
+  
+ h3{
+    color: white;
+    text-align: center;
+    margin: ;
+ }
   
     .f1{
         width: 40%;
