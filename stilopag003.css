@@ -80,6 +80,34 @@
         display: inline-block;
         text-align: center;
     }
+    .f7{
+        width: 40%;
+        height: 40%;
+        display: inline-block;
+        text-align: center;
+        padding-left: 10%;
+    }
+    .f8{
+        width: 40%;
+        height: 40%;
+        display: inline-block;
+        text-align: center;
+    }
+    .f9{
+        width: 40%;
+        height: 40%;
+        display: inline-block;
+        text-align: center;
+        padding-left: 10%;
+    }
+    .f10{
+        width: 40%;
+        height: 40%;
+        display: inline-block;
+        text-align: center;
+    }
+   
+
   .foot02{
        
     }
