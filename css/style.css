@@ -66,8 +66,10 @@ p.venha{
     font-family:berold;
     color: white;
     text-align: center;
-    padding: 20px;
+   padding-bottom: 60px;
     padding-top: 80px;
+    background-color: rgba(0, 0, 0, 0.451);
+    border-radius: 15px 0px 15px 0px;
 }
 p.agende{
     font-family: bleeding;
@@ -140,11 +142,12 @@ li{
 img.barb1{
     width: 70%;
     height: 50%;
-   border-radius: 5%;
+   border-radius: 5px 5px 0px 0px ;
    box-shadow: 9px 6px 8px rgba(0, 0, 0, 0.684);
- text-align: center;
- margin-top: 50px;
- margin-left: 17%;
+   text-align: center;
+   margin-top: 50px;
+   margin-left: 17%;
+   margin-bottom: 30px;
 }
 
 #nico{
@@ -191,17 +194,18 @@ menu{
    border-radius: 0px 0px 7px 7px;
 }
 img.foto14{
-   width: 70%;
+    width: 70%;
     height: 50%;
-   text-align: center;
+    text-align: center;
     box-shadow: 5px 6px 8px rgba(0, 0, 0, 0.74);
-    border-radius: 5%;
+    border-radius: 5px 5px 5px 5px ;
     margin-top: 30px;
     margin-left: 17%;
 }
 footer{
     background-color: #4D5D16;
    margin-top: 176px;
+   border-radius: 5px 5px 0px 0px;
    
    
 }
