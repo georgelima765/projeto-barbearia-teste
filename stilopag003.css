@@ -1,5 +1,5 @@
 
- 
+ @charset  'UTF-8';
  
 *{
     margin: 0px;
@@ -10,7 +10,9 @@
      width: 100vw;
      height: 100vh;
      background-image: url("imagens/fundo-madeira.jpg");
-     max-width: 600px;
+    /* max-width: 600px;*/
+    width: 100%;
+    max-width: 800px;
      min-width: 360px;
      margin: auto;
      background-attachment: fixed;
@@ -26,7 +28,7 @@
       text-shadow: 4px 6px 5px rgba(0, 0, 0, 0.711);
       padding: 20px;
       border-radius: 0px 0px 10px 10px;
-     
+    
      
      
  }

@@ -1,5 +1,30 @@
 @charset  'UTF-8';
 
+@media screen and (max-width:800px ){
+  img.barb1{
+    max-width: 400px;
+  }
+   
+}
+/* print(impressão)*/
+
+
+/* todas as tela all*/
+
+
+
+/* mobile first */
+/* min-width > max-width*/
+@media (min-width: 360px){
+    img.barb1{
+        min-width: 360px;
+       
+        
+    }
+    
+}
+
+
 *{
    margin: 0%;
    padding: 0%; 
@@ -10,7 +35,8 @@ html ,body{
     height: 100vh;
     background-image: url("../imagens/fundo-madeira.jpg");
    /* background-color: black;*/
-    max-width:700px ;/* largura maxima que a tela vai se adaptar*/
+    max-width:800px ;/* largura maxima que a tela vai se adaptar*/
+    width: 100%;
     min-width: 360px;
     margin: auto;
     background-attachment: fixed;
@@ -47,7 +73,7 @@ h3{
 }
  
 div.cabeça{
-   
+  
     background-color:#4d5d16;
 }
 p.agora{

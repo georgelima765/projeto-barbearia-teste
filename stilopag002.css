@@ -1,4 +1,22 @@
-*{
+@charset  'UTF-8';
+
+@media screen and (max-width:800px ){
+
+   
+}
+/* print(impressão)*/
+
+
+/* todas as tela all*/
+
+
+
+/* mobile first */
+/* min-width > max-width*/
+@media (min-width: 360px){
+    
+}
+ *{
     margin: 0px;
     padding: 0px; 
    
@@ -10,7 +28,8 @@
      width: 100vw;
      height: 100vh;
      background-image: url("imagens/fundo-madeira.jpg");
-     max-width:600px;
+    /* max-width:600px;*/
+   
      min-width: 360px;
      margin: auto;
      background-attachment: fixed;
@@ -18,7 +37,7 @@
     
  }
  h1{
-    
+   
      font-family:berold;
      text-align: center;
      color: white;
