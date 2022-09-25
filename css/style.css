@@ -1,11 +1,5 @@
 @charset  'UTF-8';
 
-@media screen and (max-width:800px ){
-  img.barb1{
-    max-width: 400px;
-  }
-   
-}
 /* print(impressão)*/
 
 
@@ -15,14 +9,6 @@
 
 /* mobile first */
 /* min-width > max-width*/
-@media (min-width: 360px){
-    img.barb1{
-        min-width: 360px;
-       
-        
-    }
-    
-}
 
 
 *{
@@ -36,8 +22,7 @@ html ,body{
     background-image: url("../imagens/fundo-madeira.jpg");
    /* background-color: black;*/
     max-width:800px ;/* largura maxima que a tela vai se adaptar*/
-    width: 100%;
-    min-width: 360px;
+  
     margin: auto;
     background-attachment: fixed;
    
@@ -205,6 +190,8 @@ img.barb1{
      transition: .5s;
     }
 menu{
+    padding-right: 15px;
+    padding-left: 15px;
  height: 50px;
    text-align: center;
    background-color: rgba(240, 255, 255, 0.221);
